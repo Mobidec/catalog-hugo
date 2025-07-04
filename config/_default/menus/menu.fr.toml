@@ -1,0 +1,26 @@
+[[main]]
+  name = "Catalogue"
+  url = ""
+  weight = -110
+
+#[[main]]
+#  name = "Catalogue des applications"
+#  url = "post/rich-content/"
+#  weight = -109
+
+# Submenus are done this way: parent -> identifier
+#[[main]]
+#  name = "Vie du programme"
+#  identifier = "Programm"
+#  weight = -108
+#[[main]]
+#  parent = "Programm"
+#  name = "PC3 - Mob Sci-dat Factory"
+#  url = "pc"
+
+# social menu links
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/Mobidec"
